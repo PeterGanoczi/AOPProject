@@ -1,4 +1,4 @@
-package sk.itsovy.ganoczi;
+package sk.itsovy.ganoczi.pointcutexpressions;
 
 
 import org.springframework.context.annotation.ComponentScan;
