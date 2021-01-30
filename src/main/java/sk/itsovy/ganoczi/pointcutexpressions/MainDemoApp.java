@@ -2,8 +2,8 @@ package sk.itsovy.ganoczi.pointcutexpressions;
 
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import sk.itsovy.ganoczi.pointcutdeclarations.dao.AccountDAO;
-import sk.itsovy.ganoczi.pointcutdeclarations.dao.MembershipDAO;
+import sk.itsovy.ganoczi.pointcutexpressions.dao.AccountDAO;
+import sk.itsovy.ganoczi.pointcutexpressions.dao.MembershipDAO;
 
 
 public class MainDemoApp {
